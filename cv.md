@@ -13,6 +13,7 @@ During my work in OZ, I managed product development at all stages such as analyz
 * Postman 
 * HTTP
 * GIT  
+
 ### Education
 Bachelor, BSU Faculty of Philisophy and Social Sciences (Social Communications)  
 ### Languages 
