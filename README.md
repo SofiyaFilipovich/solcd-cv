@@ -1,2 +1,2 @@
 # solcd-cv
-https://SofiyaFilipovich.github.io/rsschool-cv/cv
+https://sofiyafilipovich.github.io/cv
