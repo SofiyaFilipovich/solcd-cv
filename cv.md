@@ -16,7 +16,7 @@ During my work in OZ, I managed product development at all stages such as analyz
 ### Education
 Bachelor, BSU Faculty of Philisophy and Social Sciences (Social Communications)  
 ### Languages 
-**English** B1
-**Belorusian** C2
-**Russian** C2 
+**English** B1  
+**Belorusian** C2  
+**Russian** C2   
 
